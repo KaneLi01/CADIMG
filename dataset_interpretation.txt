@@ -1,0 +1,24 @@
+DeepCAD中使用的ABC数据集：
+/data/lkunh/datasets/DeepCAD/data/
+
+├── train_val_test_split.json
+│
+├── /cad_json/                       # 原始 CAD 序列的 JSON 格式数据
+│   ├── 0000/
+│   ├── 0001/
+│   │   ├── 00010010.json
+│   │   ├── 0001xxxx.json
+│   │   └── ...
+│   ├── ...
+│   └── 0099/
+│
+└── /cad_vec/                        # 向量化后的 CAD 表示（加速加载用）
+    ├── 0000/
+    ├── 0001/
+    │   ├── 00010010.h5
+    │   ├── 0001xxxx.h5
+    │   └── ...
+    ├── ...
+    └── 0099/
+
+可以使用dataset/json2vec.py获得cad_vec
