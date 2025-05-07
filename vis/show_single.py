@@ -63,6 +63,7 @@ def get_random_color(a1, a2):
     return color
 
 
+# 要把摄像机位置、shape颜色等随机信息作为参数传入，写一个新函数
 def save_BRep_img(shape, output_path=None, seed=42):
     random.seed(seed)  # 确保每个数据的初始和修改后相同
     
