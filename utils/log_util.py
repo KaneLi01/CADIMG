@@ -32,7 +32,7 @@ def log_losses(writer, batch_idx, num_batches, loss_dict):
     return iteration
 
 
-def setup_logdir(parent_log_dir):
+def setup_logdir(parent_log_dir, compare_log):
 
     # 创建日志路径、tensorboard、输出的文件名称
     timestamp = datetime.datetime.now().strftime("%m%d_%H%M")
@@ -42,5 +42,8 @@ def setup_logdir(parent_log_dir):
     log_file = open(log_filename, 'w')
     os.mkdir(os.path.join(log_dir, "vis"))
     os.mkdir(os.path.join(log_dir, "ckpt"))
+    compare_log_file = open(compare_log, 'a')
+    compare_log_file.write(f"\n─────────────────────")
+    compare_log_file.write(f"\n{timestamp} |\t")
 
-    return log_dir, log_file, tsboard_writer
+    return log_dir, log_file, tsboard_writer, compare_log_file

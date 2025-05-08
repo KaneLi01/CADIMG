@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 from diffusers import StableDiffusionPipeline, ControlNetModel, StableDiffusionControlNetPipeline
 from transformers import CLIPVisionModel, CLIPImageProcessor
-from config import ARGS
+from cad_edit_config import AppConfig
 import os
 from torch import nn
 
@@ -24,7 +24,8 @@ def load_inference_models(args):
     
     # 加载训练好的ControlNet
     controlnet = ControlNetModel.from_pretrained(args.controlnet_path)
-    controlnet.load_state_dict(torch.load("/home/lkh/siga/CADIMG/log/0507_2115/ckpt/controlnet_epoch5.pth"))  
+    trained_cn_path = os.path.join(args.parent_cn_path, args.index, "ckpt/controlnet.pth")  # 如果不是则需要修改
+    controlnet.load_state_dict(torch.load(trained_cn_path))  
     
     # 加载投影器
     projector_ckpt = torch.load(args.projector_path, map_location=args.device)
@@ -101,19 +102,17 @@ def infer(input_image_path, sketch_image_path, output_path, models, num_inferenc
     return output
 
 if __name__ == "__main__":
-    args = ARGS()
-    args.device = "cpu"
+    args = AppConfig.from_cli()
+
     # 加载模型
     models = load_inference_models(args)
     
-    # 示例推理
-    # 1,2,3
-    for i in range(0,4):
-        input_image_path = f"/home/lkh/siga/dataset/deepcad/data/cad_controlnet01/init_img/{i:06d}.png" 
-        sketch_image_path = f"/home/lkh/siga/dataset/deepcad/data/cad_controlnet01/stroke_img/{i:06d}.png"  
+    # 推理
+    for i in range(args.img_index[0],args.img_index[1]):
+        input_image_path = os.path.join(args.test_img_dir, f"{i:06d}.png")
+        sketch_image_path = os.path.join(args.test_sketch_dir, f"{i:06d}.png")          
         
-        
-        output_path = f"./infer/scribble_weight02{i}.png"  # 输出图像路径
+        output_path = os.path.join(args.output_dir, "lam", f"{args.index}_{i}.png")  # 输出图像路径
         
         result = infer(input_image_path, sketch_image_path, output_path, models)
         

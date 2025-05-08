@@ -7,7 +7,7 @@ from PIL import Image  # 假设使用Pillow库处理图像
 import matplotlib.pyplot as plt  # 可选，用于图像渲染
 from cadlib.Brep_utils import get_BRep_from_file, get_wireframe
 from cadlib.math_utils import weighted_random_sample
-from vis.show_single import save_BRep_img, save_BRep_wire_img
+from vis.show_single import save_BRep_img, save_BRep_wire_img, show_BRep
 from vis.vis_utils import clip_mask
 
 from OCC.Core.BRepAlgoAPI import BRepAlgoAPI_Fuse
@@ -32,7 +32,7 @@ class ImageProcessor:
             self.shape_name = shape_name
         self.output_dir = output_dir
         self.edit_path = edit_path
-        self.edit_shape_class = 'box'
+        self.edit_shape_class = 'mask_box'
         self.seed = int(time.time())
 
         subdirs = ["init_img", "stroke_img", "mask_img", "process_img", "result_img"]
@@ -65,6 +65,8 @@ class ImageProcessor:
     def generate_BRep(self, shape_class):
         if shape_class == 'box':
             return self.generate_box()
+        if shape_class == 'mask_box':
+            return self.generate_mask_box()
         else: raise ValueError("Unsupported shape class. Supported classes: 'box'.")
     
     def generate_box(self):
@@ -83,6 +85,45 @@ class ImageProcessor:
             p_z = 0.75
             p_x = weighted_random_sample(0.0, 0.75-l)
             p_y = weighted_random_sample(0.0, 0.75-w)
+
+        # 创建box
+        corner = gp_Pnt(p_x, p_y, p_z)
+        box = BRepPrimAPI_MakeBox(corner, l, w, h).Shape()
+        return box
+    
+    def generate_mask_box(self):
+        l, w, h = weighted_random_sample(0.25, 0.75), weighted_random_sample(0.25, 0.75), weighted_random_sample(0.25, 0.75)
+        selected_var = random.choice(['x', 'y', 'z'])
+        if selected_var == 'x':
+            p_x = 0.0
+            selected_var = random.choice(['y', 'z'])
+            if selected_var == 'y':
+                p_y = 0.75
+                p_z = weighted_random_sample(h, 0.75)
+            if selected_var == 'z':
+                p_z = 0.75
+                p_y = weighted_random_sample(w, 0.75)
+        elif selected_var == 'y':
+            p_y = 0.0
+            selected_var = random.choice(['x', 'z'])
+            if selected_var == 'x':
+                p_x = 0.75
+                p_z = weighted_random_sample(h, 0.75)
+            if selected_var == 'z':
+                p_z = 0.75
+                p_x = weighted_random_sample(l, 0.75)
+        else:
+            p_z = 0.0
+            selected_var = random.choice(['x', 'y'])
+            if selected_var == 'x':
+                p_x = 0.75
+                p_y = weighted_random_sample(w, 0.75)
+            if selected_var == 'y':
+                p_y = 0.75
+                p_x = weighted_random_sample(l, 0.75)
+        h = -h
+        l = -l
+        w = -w
 
         # 创建box
         corner = gp_Pnt(p_x, p_y, p_z)
@@ -151,7 +192,7 @@ class ARGS:
         # self.edit_path = r"/data/lkunh/datasets/DeepCAD/data/cad_json/0000/00000007.json"
         self.edit_path = None
         self.file_path = r"/home/lkh/siga/dataset/deepcad/data/cad_json/0002/00020718.json"
-        self.output_dir = r"/home/lkh/siga/dataset/deepcad/data/cad_controlnet01"
+        self.output_dir = r"/home/lkh/siga/dataset/deepcad/data/cad_controlnet_mask"
         self.edit_tpye = 'add' 
         
 
@@ -159,6 +200,7 @@ class ARGS:
 if __name__ == "__main__":
     args = ARGS()
 #{'009923.png', '008733.png', '006746.png'}
+    # os.mkdir(args.output_dir)
 
     for i in range(0,6001):
         shape_name = f"{i:06d}.png"
@@ -169,6 +211,15 @@ if __name__ == "__main__":
                                     shape_name=shape_name
                                     )
         processor.save_images()
+
+    # shape_name = f"test.png"
+    # processor = ImageProcessor(args.file_path, 
+    #                             args.output_dir, 
+    #                             edit_type=args.edit_tpye, 
+    #                             edit_path=args.edit_path, 
+    #                             shape_name=shape_name
+    #                             )
+    # processor.save_images()
 
     # check_loss()
     # process_image_mask()

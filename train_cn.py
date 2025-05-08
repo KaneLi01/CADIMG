@@ -17,7 +17,7 @@ import torchvision.transforms as T
 from torchvision import transforms
 from transformers import CLIPVisionModel, CLIPImageProcessor
 # from IPAdapter.ip_adapter.ip_adapter import IPAdapter
-from config import ARGS
+from train_config import AppConfig
 
 from utils import log_util
 from datasets.controlnet_train import SketchControlNetDataset
@@ -55,12 +55,12 @@ def load_models(args):
 
 if __name__ == "__main__":
     # 读取参数
-    args = ARGS()
+    args = AppConfig.from_cli()
+    print(type(args.lam))
 
     # 配置日志文件
-    log_dir, log_file, tsboard_writer = log_util.setup_logdir(args.parent_log_dir)  # 结果路径、tensorboard、日志文件
-    log_util.log_string(f"weight: {args.lam}", log_file)
-    log_util.log_string(f"controlnet:  {args.controlnet_path}", log_file)
+    log_dir, log_file, tsboard_writer, compare_log = log_util.setup_logdir(args.parent_log_dir, args.compare_log)  # 结果路径、tensorboard、日志文件
+    AppConfig.write_config(config_obj=args, log_file=log_file, compare_log=compare_log)
 
     # 数据集
     train_dataset = SketchControlNetDataset(
@@ -96,7 +96,7 @@ if __name__ == "__main__":
 
     optimizer = optim.AdamW(
         train_pipe.controlnet.parameters(),
-        lr=1e-5, weight_decay=1e-2
+        lr=2e-5, weight_decay=1e-2
     ) 
 
     # 其他
@@ -157,14 +157,14 @@ if __name__ == "__main__":
             # 计算loss
             noise_loss = loss_fn(noise_pred, noise)
 
-            pred_latents = noisy_latents - noise_pred
-            pred_image = train_pipe.vae.decode(pred_latents / 0.18215).sample  #  预测图像
+
 
             # 非mask区域的重建loss
             if args.lam:
+                pred_latents = noisy_latents - noise_pred
+                pred_image = train_pipe.vae.decode(pred_latents / 0.18215).sample  #  预测图像
 
-                mask_gray = mask.mean(dim=1, keepdim=True) 
-                valid_area = (mask_gray > 0.5).float() 
+                valid_area = (mask < 0.1).float() 
                 original_valid = normlize_1(input) * valid_area
                 pred_valid = pred_image * valid_area
 
@@ -179,8 +179,8 @@ if __name__ == "__main__":
             optimizer.step()
 
             if step % 50 == 0:
-                if step % 200 == 0:
-                    save_image(pred_image, os.path.join(log_dir, "vis", f"{epoch}_{step}.png"))
+                # if step % 200 == 0:
+                #     save_image(pred_image, os.path.join(log_dir, "vis", f"{epoch}_{step}.png"))
 
                 if args.lam:
                     tsboard_writer.add_scalar('noise_loss', noise_loss.item(), step)
@@ -190,8 +190,8 @@ if __name__ == "__main__":
                     tsboard_writer.add_scalar('noise_loss', noise_loss.item(), step)
                     log_util.log_string(f"Epoch {epoch}, Step {step}, noise_loss: {noise_loss.item():.4f}", log_file)
 
-        torch.save(train_pipe.controlnet.state_dict(), os.path.join(log_dir, "ckpt", f"controlnet_epoch{epoch}.pth"))
-        torch.save(train_pipe.unet.state_dict(), os.path.join(log_dir, "ckpt", f"unet_epoch{epoch}.pth"))
+        # torch.save(train_pipe.controlnet.state_dict(), os.path.join(log_dir, "ckpt", f"controlnet_epoch{epoch}.pth"))
+        # torch.save(train_pipe.unet.state_dict(), os.path.join(log_dir, "ckpt", f"unet_epoch{epoch}.pth"))
     torch.save(train_pipe.controlnet.state_dict(), os.path.join(log_dir, "ckpt", f"controlnet.pth"))
     torch.save(train_pipe.unet.state_dict(), os.path.join(log_dir, "ckpt", f"unet.pth"))
     
