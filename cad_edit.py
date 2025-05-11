@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 from diffusers import StableDiffusionPipeline, ControlNetModel, StableDiffusionControlNetPipeline
 from transformers import CLIPVisionModel, CLIPImageProcessor
-from cad_edit_config import AppConfig
+from config.cad_edit_config import AppConfig
 import os
 from torch import nn
 
@@ -66,9 +66,9 @@ def preprocess_image(image_path, device):
         transforms.ToTensor(),
     ])
     return transform(image).unsqueeze(0).to(device)
-
+# shape 能不能； VAE是否要finetune呢
 # 推理函数
-def infer(input_image_path, sketch_image_path, output_path, models, num_inference_steps=20, guidance_scale=7.5):
+def infer(input_image_path, sketch_image_path, models, num_inference_steps=20, guidance_scale=1):
     clip_model, clip_processor, pipe, projector1, projector2 = models
     
     # 预处理输入图像
@@ -83,7 +83,8 @@ def infer(input_image_path, sketch_image_path, output_path, models, num_inferenc
         image_embeds = projector1(image_embeds.transpose(1, 2)).transpose(1, 2)
         image_embeds = projector2(image_embeds)
 
-        prompt_embeds = torch.cat([image_embeds, image_embeds], dim=0)
+        # prompt_embeds = torch.cat([image_embeds, image_embeds], dim=0)
+        prompt_embeds = image_embeds
         pooled_prompt_embeds = image_embeds.mean(dim=1)
 
         # 生成图像
@@ -97,8 +98,6 @@ def infer(input_image_path, sketch_image_path, output_path, models, num_inferenc
             guidance_scale=guidance_scale,
         ).images[0]
         
-    # 保存结果
-    output.save(output_path)
     return output
 
 if __name__ == "__main__":
@@ -108,12 +107,18 @@ if __name__ == "__main__":
     models = load_inference_models(args)
     
     # 推理
+    imgs = []
+    output_parent_path = "/home/lkh/siga/CADIMG/infer"
+    output_path = os.path.join(output_parent_path, args.output_dir, f"{args.index}.png")
     for i in range(args.img_index[0],args.img_index[1]):
         input_image_path = os.path.join(args.test_img_dir, f"{i:06d}.png")
         sketch_image_path = os.path.join(args.test_sketch_dir, f"{i:06d}.png")          
         
-        output_path = os.path.join(args.output_dir, "lam", f"{args.index}_{i}.png")  # 输出图像路径
         
-        result = infer(input_image_path, sketch_image_path, output_path, models)
-        
-        print(f"Inference completed. Result saved to {output_path}")
+        result = infer(input_image_path, sketch_image_path, models)
+        imgs.append(np.array(result))
+    imgs_np = np.concatenate(imgs, axis=1)
+    imgs = Image.fromarray(imgs_np)
+    imgs.save(output_path)
+
+    
