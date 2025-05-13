@@ -5,7 +5,7 @@ from OCC.Core.BRepAlgoAPI import BRepAlgoAPI_Cut, BRepAlgoAPI_Fuse, BRepAlgoAPI_
 from OCC.Core.GC import GC_MakeArcOfCircle
 from OCC.Extend.DataExchange import write_stl_file
 from OCC.Core.Bnd import Bnd_Box
-from OCC.Core.BRepBndLib import brepbndlib_Add
+from OCC.Core.BRepBndLib import brepbndlib
 from OCC.Core.TopExp import TopExp_Explorer
 from OCC.Core.TopAbs import TopAbs_EDGE
 from OCC.Core.BRepBuilderAPI import BRepBuilderAPI_MakeWire
@@ -49,6 +49,20 @@ def create_CAD(cad_seq: CADSequence):
         elif extrude_op.operation == EXTRUDE_OPERATIONS.index("IntersectFeatureOperation"):
             body = BRepAlgoAPI_Common(body, new_body).Shape()
     return body
+
+
+def create_CAD_from_seq(seq):
+    body = create_by_extrude(seq[0])
+    for extrude_op in seq[1:]:
+        new_body = create_by_extrude(extrude_op)
+        if extrude_op.operation == EXTRUDE_OPERATIONS.index("NewBodyFeatureOperation") or \
+                extrude_op.operation == EXTRUDE_OPERATIONS.index("JoinFeatureOperation"):
+            body = BRepAlgoAPI_Fuse(body, new_body).Shape()
+        elif extrude_op.operation == EXTRUDE_OPERATIONS.index("CutFeatureOperation"):
+            body = BRepAlgoAPI_Cut(body, new_body).Shape()
+        elif extrude_op.operation == EXTRUDE_OPERATIONS.index("IntersectFeatureOperation"):
+            body = BRepAlgoAPI_Common(body, new_body).Shape()
+    return body    
 
 
 def create_by_extrude(extrude_op: Extrude):
@@ -137,7 +151,7 @@ def point_local2global(point, sketch_plane: CoordSystem, to_gp_Pnt=True):
 def CADsolid2pc(shape, n_points, name=None):
     """convert opencascade solid to point clouds"""
     bbox = Bnd_Box()
-    brepbndlib_Add(shape, bbox)
+    brepbndlib.Add(shape, bbox)
     if bbox.IsVoid():
         raise ValueError("box check failed")
 

@@ -1,0 +1,628 @@
+nohup: 忽略输入
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: NVIDIA Corporation
+  GLdevice: NVIDIA GeForce RTX 3090 Ti/PCIe/SSE2
+  GLversion: 4.6.0 NVIDIA 535.86.10
+  GLSLversion: 4.60 NVIDIA
+  Max texture size: 32768
+  Max FBO dump size: 32768x32768
+  Max combined texture units: 192
+  Max MSAA samples: 32
+  Viewport: 640x480
+  Window buffer: RGB8 ALPHA0 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspec

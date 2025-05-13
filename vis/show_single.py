@@ -1,4 +1,5 @@
 import json
+import os
 import h5py
 import random
 import numpy as np
@@ -14,7 +15,7 @@ from OCC.Core.V3d import  V3d_DirectionalLight
 from OCC.Core.Graphic3d import  Graphic3d_MaterialAspect
 from OCC.Display.OCCViewer import Viewer3d
 from OCC.Core.AIS import AIS_Shape, AIS_Line
-from OCC.Core.gp import gp_Dir
+from OCC.Core.gp import gp_Dir, gp_Pnt
 
 
 
@@ -40,6 +41,29 @@ MECHANICAL_COLORS = {
     "cobalt":      (0.2392, 0.3490, 0.6706),      # 钴蓝
 }
 
+
+VIEW_CORNERS = [
+    ( 10.0, -10.0,  10.0),
+    ( 10.0, -10.0, -10.0),
+    ( 10.0,  10.0, -10.0),
+    ( 10.0,  10.0,  10.0),
+    (-10.0, -10.0,  10.0),
+    (-10.0, -10.0, -10.0),
+    (-10.0,  10.0, -10.0),
+    (-10.0,  10.0,  10.0),
+]
+
+
+VIEW = {
+    'front': [0, 1, 2, 3],
+    'back': [4, 5, 6, 7],
+    'right': [2, 3, 6, 7],
+    'left': [0, 1, 4, 5],
+    'up': [0, 3, 4, 7],
+    'down': [1, 2, 5, 6]
+}
+
+
 from OCC.Core.Graphic3d import Graphic3d_NOM_ALUMINIUM, Graphic3d_NOM_STONE, Graphic3d_NOM_OBSIDIAN, Graphic3d_NOM_COPPER, Graphic3d_NOM_PEWTER
 
 MATERIALS = [
@@ -63,8 +87,55 @@ def get_random_color(a1, a2):
     return color
 
 
+def save_BRep_img(shape, output_path=None, scale=100, center=(0.0, 0.0, 0.0)):
+    offscreen_renderer = Viewer3d()  # 离线渲染
+    offscreen_renderer.Create()  # 初始化
+    offscreen_renderer.SetModeShaded()
+    offscreen_renderer.SetSize(512, 512)
+    offscreen_renderer.DisplayShape(shape, update=True)
+
+
+    # 设置摄像机
+    offscreen_renderer.View.SetEye(10.0, 10.0, 10.0)  # 设置摄像机位置
+    offscreen_renderer.View.SetAt(center[0], center[1], center[2]) 
+    offscreen_renderer.View.SetScale(scale)
+    
+    # 设置背景颜色
+    bg_color = COLORS["white"]
+    offscreen_renderer.View.SetBgGradientColors(bg_color,bg_color)
+
+
+    offscreen_renderer.Repaint()
+    offscreen_renderer.View.Dump(output_path)
+
+
+def save_BRep_img_w_allshape(shape, output_dir=None, scale=100, center=(0.0, 0.0, 0.0), view='front'):
+    offscreen_renderer = Viewer3d()  # 离线渲染
+    offscreen_renderer.Create()  # 初始化
+    offscreen_renderer.SetModeShaded()
+    offscreen_renderer.SetSize(512, 512)
+
+    # 设置摄像机
+    view_index = VIEW[view]
+    for i, v in enumerate(view_index):
+        eye_pos = VIEW_CORNERS[v]
+        offscreen_renderer.View.SetEye(eye_pos[0], eye_pos[1], eye_pos[2])  # 设置摄像机位置
+        offscreen_renderer.View.SetAt(center[0], center[1], center[2]) 
+        offscreen_renderer.View.SetScale(scale)
+        
+        # 设置背景颜色
+        bg_color = COLORS["white"]
+        offscreen_renderer.View.SetBgGradientColors(bg_color,bg_color)
+
+        offscreen_renderer.DisplayShape(shape, update=False)
+        offscreen_renderer.Repaint()
+        output_path = os.path.join(output_dir, f"{i}.png")
+        offscreen_renderer.View.Dump(output_path)
+
+
+
 # 要把摄像机位置、shape颜色等随机信息作为参数传入，写一个新函数
-def save_BRep_img(shape, output_path=None, seed=42):
+def save_BRep_img_random(shape, output_path=None, seed=42):
     random.seed(seed)  # 确保每个数据的初始和修改后相同
     
     offscreen_renderer = Viewer3d()  # 离线渲染
@@ -149,7 +220,7 @@ def save_BRep_wire_img(wire_list, output_path=None, seed=42):
 
 
 # 用save_BRep_img保存，这个用于交互式渲染
-def show_BRep(out_shape, show_type, display=None, save_path=None):
+def show_BRep(out_shape, show_type='body', display=None, save_path=None, axis=False):
     if display is None:
         display, start_display, _, _ = init_display()
         close_display = True
@@ -176,7 +247,8 @@ def show_BRep(out_shape, show_type, display=None, save_path=None):
     if show_type == "body":
         ais_out_shape = display.DisplayShape(out_shape, update=False, color=get_mechanical_color(MECHANICAL_COLORS))
 
-    display.View.TriedronErase()  # 清除坐标轴
+    if not axis:
+        display.View.TriedronErase()  # 清除坐标轴
 
     if save_path is not None:
         # 保存
