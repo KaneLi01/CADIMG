@@ -1,0 +1,17 @@
+task_name: "distinguish_add_complexity_all_1"
+input: "/home/lkh/siga/dataset/ABC/shape_feats/processed/new/v3/distinguish_add_base/2/add.jsonl"
+output_dir: "/home/lkh/siga/dataset/ABC/shape_feats/processed/new/v3/distinguish_add_complexity/1"
+classify_name: 
+  - 'torus'
+  - 'cone'
+  - 'sphere'
+  - '12other'
+  - '3'
+  - '4'
+  - '5'
+  - '6cube'
+  - '6other'
+  - '7'
+  - '8'
+  - '9up'
+render: True

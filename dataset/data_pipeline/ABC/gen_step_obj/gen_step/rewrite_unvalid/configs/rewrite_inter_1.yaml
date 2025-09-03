@@ -1,0 +1,5 @@
+task_name: "rewrite_inter_1"
+task: "rewrite_inter"
+txt_name_list: '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_inter.txt'
+txt_output_paths: '/home/lkh/siga/dataset/ABC/childnum1_base_add_shape/1/view_supp.txt'
+

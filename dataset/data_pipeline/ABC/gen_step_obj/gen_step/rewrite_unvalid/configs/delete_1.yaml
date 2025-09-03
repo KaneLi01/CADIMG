@@ -1,0 +1,4 @@
+task_name: "delete_unvalid_name"
+task: "delete"
+txt_name_list: '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_far3.txt'
+txt_output_paths: None

@@ -1,0 +1,6 @@
+task_name: "filter_base_valid_plane_1"
+input: "/home/lkh/siga/dataset/ABC/shape_feats/processed/new/v3/distinguish_add_base/2/base.jsonl"
+output_dir: "/home/lkh/siga/dataset/ABC/shape_feats/processed/new/v3/filter_base_valid_plane/1"
+classify_name: 
+  - valid
+  - unvalid

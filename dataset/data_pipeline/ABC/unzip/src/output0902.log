@@ -1,0 +1,5619 @@
+nohup: 忽略输入
+正在处理文件: ./src/cases_sorted.txt (格式: txt)
+检测到TXT格式，使用逐行读取方式...
+处理: name=00007569, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007569
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007569 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1087
+Size:       808529538
+Compressed: 1594129754
+解压 00007569 用时 4 秒
+--------------------------
+处理: name=00007570, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007570
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007570 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1088
+Size:       808572564
+Compressed: 1594129754
+解压 00007570 用时 3 秒
+--------------------------
+处理: name=00007571, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007571
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007571 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1089
+Size:       808651954
+Compressed: 1594129754
+解压 00007571 用时 4 秒
+--------------------------
+处理: name=00007572, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007572
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007572 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1090
+Size:       808757091
+Compressed: 1594129754
+解压 00007572 用时 3 秒
+--------------------------
+处理: name=00007573, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007573
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007573 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1091
+Size:       808780769
+Compressed: 1594129754
+解压 00007573 用时 4 秒
+--------------------------
+处理: name=00007574, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007574
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007574 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1092
+Size:       808838252
+Compressed: 1594129754
+解压 00007574 用时 3 秒
+--------------------------
+处理: name=00007575, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007575
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007575 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1093
+Size:       808881913
+Compressed: 1594129754
+解压 00007575 用时 4 秒
+--------------------------
+处理: name=00007821, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007821
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007821 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1339
+Size:       2062506204
+Compressed: 1594129754
+解压 00007821 用时 11 秒
+--------------------------
+处理: name=00007822, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007822
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007822 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1340
+Size:       2062543253
+Compressed: 1594129754
+解压 00007822 用时 10 秒
+--------------------------
+处理: name=00007823, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007823
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007823 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1341
+Size:       2062571038
+Compressed: 1594129754
+解压 00007823 用时 11 秒
+--------------------------
+处理: name=00007826, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007826
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007826 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1344
+Size:       2062877615
+Compressed: 1594129754
+解压 00007826 用时 10 秒
+--------------------------
+处理: name=00007827, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007827
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007827 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1345
+Size:       2062891926
+Compressed: 1594129754
+解压 00007827 用时 10 秒
+--------------------------
+处理: name=00007828, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007828
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007828 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1346
+Size:       2062917672
+Compressed: 1594129754
+解压 00007828 用时 11 秒
+--------------------------
+处理: name=00007829, index=00
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/00/00007829
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z 中的子目录 00007829 到 /home/lkh/siga/dataset/ABC/step_case/00 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1594129754 bytes (1521 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0000_step_v00.7z
+Type = 7z
+Physical Size = 1594129754
+Headers Size = 197595
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 1347
+Size:       2062935631
+Compressed: 1594129754
+解压 00007829 用时 10 秒
+--------------------------
+处理: name=00011673, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011673
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011673 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 167
+Size:       389760373
+Compressed: 1485845271
+解压 00011673 用时 3 秒
+--------------------------
+处理: name=00011674, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011674
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011674 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 168
+Size:       389781851
+Compressed: 1485845271
+解压 00011674 用时 2 秒
+--------------------------
+处理: name=00011675, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011675
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011675 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 169
+Size:       389803329
+Compressed: 1485845271
+解压 00011675 用时 2 秒
+--------------------------
+处理: name=00011677, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011677
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011677 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 171
+Size:       389846264
+Compressed: 1485845271
+解压 00011677 用时 2 秒
+--------------------------
+处理: name=00011678, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011678
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011678 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 172
+Size:       389867759
+Compressed: 1485845271
+解压 00011678 用时 2 秒
+--------------------------
+处理: name=00011691, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011691
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011691 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 185
+Size:       390152397
+Compressed: 1485845271
+解压 00011691 用时 2 秒
+--------------------------
+处理: name=00011692, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011692
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011692 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 186
+Size:       390180223
+Compressed: 1485845271
+解压 00011692 用时 2 秒
+--------------------------
+处理: name=00011693, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011693
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011693 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 187
+Size:       390204745
+Compressed: 1485845271
+解压 00011693 用时 3 秒
+--------------------------
+处理: name=00011694, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011694
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011694 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 188
+Size:       390229267
+Compressed: 1485845271
+解压 00011694 用时 2 秒
+--------------------------
+处理: name=00011695, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011695
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011695 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 189
+Size:       390253789
+Compressed: 1485845271
+解压 00011695 用时 2 秒
+--------------------------
+处理: name=00011696, index=01
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/01/00011696
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z 中的子目录 00011696 到 /home/lkh/siga/dataset/ABC/step_case/01 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1485845271 bytes (1418 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0001_step_v00.7z
+Type = 7z
+Physical Size = 1485845271
+Headers Size = 198551
+Method = LZMA2:24
+Solid = +
+Blocks = 7
+
+Everything is Ok
+
+Files: 190
+Size:       390278311
+Compressed: 1485845271
+解压 00011696 用时 2 秒
+--------------------------
+处理: name=00021880, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021880
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021880 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1881
+Size:       1186495233
+Compressed: 785984798
+解压 00021880 用时 6 秒
+--------------------------
+处理: name=00021881, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021881
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021881 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1882
+Size:       1186526040
+Compressed: 785984798
+解压 00021881 用时 4 秒
+--------------------------
+处理: name=00021882, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021882
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021882 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1883
+Size:       1186559098
+Compressed: 785984798
+解压 00021882 用时 5 秒
+--------------------------
+处理: name=00021889, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021889
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021889 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1890
+Size:       1186671672
+Compressed: 785984798
+解压 00021889 用时 5 秒
+--------------------------
+处理: name=00021890, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021890
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021890 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1891
+Size:       1186702554
+Compressed: 785984798
+解压 00021890 用时 5 秒
+--------------------------
+处理: name=00021894, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021894
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021894 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1895
+Size:       1186778636
+Compressed: 785984798
+解压 00021894 用时 5 秒
+--------------------------
+处理: name=00021904, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021904
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021904 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1905
+Size:       1192495793
+Compressed: 785984798
+解压 00021904 用时 5 秒
+--------------------------
+处理: name=00021905, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021905
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021905 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1906
+Size:       1192526686
+Compressed: 785984798
+解压 00021905 用时 5 秒
+--------------------------
+处理: name=00021906, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021906
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021906 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1907
+Size:       1192572712
+Compressed: 785984798
+解压 00021906 用时 5 秒
+--------------------------
+处理: name=00021910, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021910
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021910 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1911
+Size:       1192654302
+Compressed: 785984798
+解压 00021910 用时 4 秒
+--------------------------
+处理: name=00021911, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021911
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021911 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1912
+Size:       1192683499
+Compressed: 785984798
+解压 00021911 用时 5 秒
+--------------------------
+处理: name=00021912, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021912
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021912 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1913
+Size:       1192711200
+Compressed: 785984798
+解压 00021912 用时 5 秒
+--------------------------
+处理: name=00021922, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021922
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021922 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1923
+Size:       1193201232
+Compressed: 785984798
+解压 00021922 用时 5 秒
+--------------------------
+处理: name=00021929, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021929
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021929 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1930
+Size:       1193304619
+Compressed: 785984798
+解压 00021929 用时 5 秒
+--------------------------
+处理: name=00021930, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021930
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021930 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1931
+Size:       1193334063
+Compressed: 785984798
+解压 00021930 用时 5 秒
+--------------------------
+处理: name=00021935, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021935
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021935 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1936
+Size:       1193419229
+Compressed: 785984798
+解压 00021935 用时 5 秒
+--------------------------
+处理: name=00021936, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021936
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021936 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1937
+Size:       1193443888
+Compressed: 785984798
+解压 00021936 用时 5 秒
+--------------------------
+处理: name=00021937, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021937
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021937 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1938
+Size:       1193468547
+Compressed: 785984798
+解压 00021937 用时 4 秒
+--------------------------
+处理: name=00021941, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021941
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021941 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1942
+Size:       1193536025
+Compressed: 785984798
+解压 00021941 用时 5 秒
+--------------------------
+处理: name=00021947, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021947
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021947 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1948
+Size:       1193641036
+Compressed: 785984798
+解压 00021947 用时 5 秒
+--------------------------
+处理: name=00021952, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021952
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021952 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1953
+Size:       1193764161
+Compressed: 785984798
+解压 00021952 用时 5 秒
+--------------------------
+处理: name=00021953, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021953
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021953 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1954
+Size:       1193788759
+Compressed: 785984798
+解压 00021953 用时 5 秒
+--------------------------
+处理: name=00021966, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021966
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021966 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1967
+Size:       1194063395
+Compressed: 785984798
+解压 00021966 用时 5 秒
+--------------------------
+处理: name=00021974, index=02
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/02/00021974
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z 中的子目录 00021974 到 /home/lkh/siga/dataset/ABC/step_case/02 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 785984798 bytes (750 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0002_step_v00.7z
+Type = 7z
+Physical Size = 785984798
+Headers Size = 215023
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1975
+Size:       1194257154
+Compressed: 785984798
+解压 00021974 用时 5 秒
+--------------------------
+处理: name=00035092, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035092
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035092 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1114
+Size:       1108618744
+Compressed: 947867139
+解压 00035092 用时 5 秒
+--------------------------
+处理: name=00035093, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035093
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035093 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1115
+Size:       1108650861
+Compressed: 947867139
+解压 00035093 用时 5 秒
+--------------------------
+处理: name=00035094, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035094
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035094 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1116
+Size:       1108676061
+Compressed: 947867139
+解压 00035094 用时 5 秒
+--------------------------
+处理: name=00035096, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035096
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035096 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1118
+Size:       1108718952
+Compressed: 947867139
+解压 00035096 用时 4 秒
+--------------------------
+处理: name=00035097, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035097
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035097 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1119
+Size:       1108741596
+Compressed: 947867139
+解压 00035097 用时 5 秒
+--------------------------
+处理: name=00035113, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035113
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035113 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1135
+Size:       1110235071
+Compressed: 947867139
+解压 00035113 用时 5 秒
+--------------------------
+处理: name=00035115, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035115
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035115 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1137
+Size:       1110288365
+Compressed: 947867139
+解压 00035115 用时 4 秒
+--------------------------
+处理: name=00035116, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035116
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035116 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1138
+Size:       1110321739
+Compressed: 947867139
+解压 00035116 用时 5 秒
+--------------------------
+处理: name=00035119, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035119
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035119 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1141
+Size:       1110437725
+Compressed: 947867139
+解压 00035119 用时 5 秒
+--------------------------
+处理: name=00035120, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035120
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035120 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1142
+Size:       1110455781
+Compressed: 947867139
+解压 00035120 用时 4 秒
+--------------------------
+处理: name=00035121, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035121
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035121 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1143
+Size:       1110482447
+Compressed: 947867139
+解压 00035121 用时 5 秒
+--------------------------
+处理: name=00035122, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035122
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035122 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1144
+Size:       1110509276
+Compressed: 947867139
+解压 00035122 用时 5 秒
+--------------------------
+处理: name=00035547, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035547
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035547 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1569
+Size:       1675951541
+Compressed: 947867139
+解压 00035547 用时 7 秒
+--------------------------
+处理: name=00035548, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035548
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035548 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1570
+Size:       1675973597
+Compressed: 947867139
+解压 00035548 用时 7 秒
+--------------------------
+处理: name=00035549, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035549
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035549 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1571
+Size:       1676000337
+Compressed: 947867139
+解压 00035549 用时 7 秒
+--------------------------
+处理: name=00035552, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035552
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035552 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1574
+Size:       1676080473
+Compressed: 947867139
+解压 00035552 用时 7 秒
+--------------------------
+处理: name=00035553, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035553
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035553 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1575
+Size:       1676106177
+Compressed: 947867139
+解压 00035553 用时 7 秒
+--------------------------
+处理: name=00035556, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00035556
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00035556 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1578
+Size:       1676188067
+Compressed: 947867139
+解压 00035556 用时 7 秒
+--------------------------
+处理: name=00039061, index=03
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/03/00039061
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z 中的子目录 00039061 到 /home/lkh/siga/dataset/ABC/step_case/03 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 947867139 bytes (904 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0003_step_v00.7z
+Type = 7z
+Physical Size = 947867139
+Headers Size = 219694
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2992
+Size:       2115788655
+Compressed: 947867139
+解压 00039061 用时 11 秒
+--------------------------
+处理: name=00051062, index=05
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/05/00051062
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z 中的子目录 00051062 到 /home/lkh/siga/dataset/ABC/step_case/05 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 867082928 bytes (827 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z
+Type = 7z
+Physical Size = 867082928
+Headers Size = 218304
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1063
+Size:       761597646
+Compressed: 867082928
+解压 00051062 用时 3 秒
+--------------------------
+处理: name=00051456, index=05
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/05/00051456
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z 中的子目录 00051456 到 /home/lkh/siga/dataset/ABC/step_case/05 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 867082928 bytes (827 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z
+Type = 7z
+Physical Size = 867082928
+Headers Size = 218304
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1457
+Size:       1025656172
+Compressed: 867082928
+解压 00051456 用时 5 秒
+--------------------------
+处理: name=00051460, index=05
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/05/00051460
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z 中的子目录 00051460 到 /home/lkh/siga/dataset/ABC/step_case/05 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 867082928 bytes (827 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0005_step_v00.7z
+Type = 7z
+Physical Size = 867082928
+Headers Size = 218304
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1461
+Size:       1025736666
+Compressed: 867082928
+解压 00051460 用时 4 秒
+--------------------------
+处理: name=00088659, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088659
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088659 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2279
+Size:       2136169197
+Compressed: 1048709609
+解压 00088659 用时 10 秒
+--------------------------
+处理: name=00088660, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088660
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088660 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2280
+Size:       2136195503
+Compressed: 1048709609
+解压 00088660 用时 9 秒
+--------------------------
+处理: name=00088662, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088662
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088662 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2282
+Size:       2136275868
+Compressed: 1048709609
+解压 00088662 用时 9 秒
+--------------------------
+处理: name=00088666, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088666
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088666 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2286
+Size:       2136548984
+Compressed: 1048709609
+解压 00088666 用时 9 秒
+--------------------------
+处理: name=00088667, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088667
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088667 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2287
+Size:       2136581608
+Compressed: 1048709609
+解压 00088667 用时 9 秒
+--------------------------
+处理: name=00088669, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088669
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088669 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2289
+Size:       2136709654
+Compressed: 1048709609
+解压 00088669 用时 9 秒
+--------------------------
+处理: name=00088670, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088670
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088670 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2290
+Size:       2136735965
+Compressed: 1048709609
+解压 00088670 用时 9 秒
+--------------------------
+处理: name=00088675, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00088675
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00088675 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2295
+Size:       2137620041
+Compressed: 1048709609
+解压 00088675 用时 9 秒
+--------------------------
+处理: name=00089596, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089596
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089596 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 901
+Size:       1181505146
+Compressed: 1048709609
+解压 00089596 用时 6 秒
+--------------------------
+处理: name=00089597, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089597
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089597 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 902
+Size:       1181544912
+Compressed: 1048709609
+解压 00089597 用时 5 秒
+--------------------------
+处理: name=00089598, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089598
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089598 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 903
+Size:       1181573244
+Compressed: 1048709609
+解压 00089598 用时 6 秒
+--------------------------
+处理: name=00089600, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089600
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089600 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 905
+Size:       1181776289
+Compressed: 1048709609
+解压 00089600 用时 5 秒
+--------------------------
+处理: name=00089601, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089601
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089601 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 906
+Size:       1181802413
+Compressed: 1048709609
+解压 00089601 用时 5 秒
+--------------------------
+处理: name=00089602, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089602
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089602 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 907
+Size:       1181840376
+Compressed: 1048709609
+解压 00089602 用时 5 秒
+--------------------------
+处理: name=00089604, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089604
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089604 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 909
+Size:       1181914689
+Compressed: 1048709609
+解压 00089604 用时 6 秒
+--------------------------
+处理: name=00089606, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089606
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089606 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 911
+Size:       1181987005
+Compressed: 1048709609
+解压 00089606 用时 5 秒
+--------------------------
+处理: name=00089608, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089608
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089608 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 913
+Size:       1182036070
+Compressed: 1048709609
+解压 00089608 用时 5 秒
+--------------------------
+处理: name=00089616, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089616
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089616 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 921
+Size:       1183882973
+Compressed: 1048709609
+解压 00089616 用时 5 秒
+--------------------------
+处理: name=00089623, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089623
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089623 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 928
+Size:       1184323065
+Compressed: 1048709609
+解压 00089623 用时 5 秒
+--------------------------
+处理: name=00089624, index=08
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/08/00089624
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z 中的子目录 00089624 到 /home/lkh/siga/dataset/ABC/step_case/08 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1048709609 bytes (1001 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0008_step_v00.7z
+Type = 7z
+Physical Size = 1048709609
+Headers Size = 213172
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 929
+Size:       1184349153
+Compressed: 1048709609
+解压 00089624 用时 5 秒
+--------------------------
+处理: name=00095099, index=09
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/09/00095099
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0009_step_v00.7z 中的子目录 00095099 到 /home/lkh/siga/dataset/ABC/step_case/09 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1056801708 bytes (1008 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0009_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0009_step_v00.7z
+Type = 7z
+Physical Size = 1056801708
+Headers Size = 205778
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2267
+Size:       1306220634
+Compressed: 1056801708
+解压 00095099 用时 7 秒
+--------------------------
+处理: name=00214297, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00214297
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00214297 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 917
+Size:       1308243168
+Compressed: 961369506
+解压 00214297 用时 6 秒
+--------------------------
+处理: name=00215921, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215921
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215921 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 787
+Size:       569271867
+Compressed: 961369506
+解压 00215921 用时 3 秒
+--------------------------
+处理: name=00215922, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215922
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215922 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 788
+Size:       569313537
+Compressed: 961369506
+解压 00215922 用时 3 秒
+--------------------------
+处理: name=00215924, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215924
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215924 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 790
+Size:       569500668
+Compressed: 961369506
+解压 00215924 用时 2 秒
+--------------------------
+处理: name=00215926, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215926
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215926 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 792
+Size:       569810452
+Compressed: 961369506
+解压 00215926 用时 3 秒
+--------------------------
+处理: name=00215936, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215936
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215936 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 802
+Size:       571789021
+Compressed: 961369506
+解压 00215936 用时 3 秒
+--------------------------
+处理: name=00215937, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215937
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215937 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 803
+Size:       571831502
+Compressed: 961369506
+解压 00215937 用时 2 秒
+--------------------------
+处理: name=00215939, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215939
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215939 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 805
+Size:       571962101
+Compressed: 961369506
+解压 00215939 用时 3 秒
+--------------------------
+处理: name=00215940, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215940
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215940 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 806
+Size:       572005597
+Compressed: 961369506
+解压 00215940 用时 3 秒
+--------------------------
+处理: name=00215941, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215941
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215941 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 807
+Size:       572057703
+Compressed: 961369506
+解压 00215941 用时 2 秒
+--------------------------
+处理: name=00215942, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215942
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215942 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 808
+Size:       572120410
+Compressed: 961369506
+解压 00215942 用时 3 秒
+--------------------------
+处理: name=00215955, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215955
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215955 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 821
+Size:       573514132
+Compressed: 961369506
+解压 00215955 用时 3 秒
+--------------------------
+处理: name=00215956, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215956
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215956 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 822
+Size:       573653298
+Compressed: 961369506
+解压 00215956 用时 2 秒
+--------------------------
+处理: name=00215957, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215957
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215957 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 823
+Size:       573797546
+Compressed: 961369506
+解压 00215957 用时 3 秒
+--------------------------
+处理: name=00215959, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215959
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215959 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 825
+Size:       574124782
+Compressed: 961369506
+解压 00215959 用时 2 秒
+--------------------------
+处理: name=00215961, index=21
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/21/00215961
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z 中的子目录 00215961 到 /home/lkh/siga/dataset/ABC/step_case/21 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 961369506 bytes (917 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0021_step_v00.7z
+Type = 7z
+Physical Size = 961369506
+Headers Size = 216943
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 827
+Size:       574456927
+Compressed: 961369506
+解压 00215961 用时 3 秒
+--------------------------
+处理: name=00242920, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242920
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242920 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 969
+Size:       871911369
+Compressed: 910507831
+解压 00242920 用时 4 秒
+--------------------------
+处理: name=00242926, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242926
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242926 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 975
+Size:       879693648
+Compressed: 910507831
+解压 00242926 用时 4 秒
+--------------------------
+处理: name=00242927, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242927
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242927 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 976
+Size:       879733918
+Compressed: 910507831
+解压 00242927 用时 4 秒
+--------------------------
+处理: name=00242929, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242929
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242929 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 978
+Size:       879867276
+Compressed: 910507831
+解压 00242929 用时 4 秒
+--------------------------
+处理: name=00242930, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242930
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242930 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 979
+Size:       879936378
+Compressed: 910507831
+解压 00242930 用时 4 秒
+--------------------------
+处理: name=00242937, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242937
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242937 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 986
+Size:       880352543
+Compressed: 910507831
+解压 00242937 用时 4 秒
+--------------------------
+处理: name=00242939, index=24
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/24/00242939
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z 中的子目录 00242939 到 /home/lkh/siga/dataset/ABC/step_case/24 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 910507831 bytes (869 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0024_step_v00.7z
+Type = 7z
+Physical Size = 910507831
+Headers Size = 217692
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 988
+Size:       880502595
+Compressed: 910507831
+解压 00242939 用时 4 秒
+--------------------------
+处理: name=00299779, index=29
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/29/00299779
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z 中的子目录 00299779 到 /home/lkh/siga/dataset/ABC/step_case/29 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1074560545 bytes (1025 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+Type = 7z
+Physical Size = 1074560545
+Headers Size = 221328
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 810
+Size:       632991521
+Compressed: 1074560545
+解压 00299779 用时 2 秒
+--------------------------
+处理: name=00299793, index=29
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/29/00299793
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z 中的子目录 00299793 到 /home/lkh/siga/dataset/ABC/step_case/29 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1074560545 bytes (1025 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+Type = 7z
+Physical Size = 1074560545
+Headers Size = 221328
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 824
+Size:       635552031
+Compressed: 1074560545
+解压 00299793 用时 3 秒
+--------------------------
+处理: name=00299801, index=29
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/29/00299801
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z 中的子目录 00299801 到 /home/lkh/siga/dataset/ABC/step_case/29 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1074560545 bytes (1025 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+Type = 7z
+Physical Size = 1074560545
+Headers Size = 221328
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 832
+Size:       639849283
+Compressed: 1074560545
+解压 00299801 用时 2 秒
+--------------------------
+处理: name=00299842, index=29
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/29/00299842
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z 中的子目录 00299842 到 /home/lkh/siga/dataset/ABC/step_case/29 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1074560545 bytes (1025 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+Type = 7z
+Physical Size = 1074560545
+Headers Size = 221328
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 873
+Size:       715382566
+Compressed: 1074560545
+解压 00299842 用时 3 秒
+--------------------------
+处理: name=00299847, index=29
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/29/00299847
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z 中的子目录 00299847 到 /home/lkh/siga/dataset/ABC/step_case/29 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1074560545 bytes (1025 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+Type = 7z
+Physical Size = 1074560545
+Headers Size = 221328
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 878
+Size:       715484367
+Compressed: 1074560545
+解压 00299847 用时 3 秒
+--------------------------
+处理: name=00299933, index=29
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/29/00299933
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z 中的子目录 00299933 到 /home/lkh/siga/dataset/ABC/step_case/29 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1074560545 bytes (1025 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0029_step_v00.7z
+Type = 7z
+Physical Size = 1074560545
+Headers Size = 221328
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 964
+Size:       772609261
+Compressed: 1074560545
+解压 00299933 用时 3 秒
+--------------------------
+处理: name=00300486, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00300486
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00300486 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 487
+Size:       351732513
+Compressed: 854024169
+解压 00300486 用时 1 秒
+--------------------------
+处理: name=00300670, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00300670
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00300670 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 671
+Size:       472020662
+Compressed: 854024169
+解压 00300670 用时 2 秒
+--------------------------
+处理: name=00302636, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00302636
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00302636 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2637
+Size:       1860500847
+Compressed: 854024169
+解压 00302636 用时 8 秒
+--------------------------
+处理: name=00302650, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00302650
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00302650 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2651
+Size:       1880362520
+Compressed: 854024169
+解压 00302650 用时 8 秒
+--------------------------
+处理: name=00302662, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00302662
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00302662 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2663
+Size:       1881604191
+Compressed: 854024169
+解压 00302662 用时 7 秒
+--------------------------
+处理: name=00302672, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00302672
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00302672 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2673
+Size:       1882663067
+Compressed: 854024169
+解压 00302672 用时 8 秒
+--------------------------
+处理: name=00302673, index=30
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/30/00302673
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z 中的子目录 00302673 到 /home/lkh/siga/dataset/ABC/step_case/30 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 854024169 bytes (815 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0030_step_v00.7z
+Type = 7z
+Physical Size = 854024169
+Headers Size = 223159
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2674
+Size:       1882703745
+Compressed: 854024169
+解压 00302673 用时 8 秒
+--------------------------
+处理: name=00310294, index=31
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/31/00310294
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0031_step_v00.7z 中的子目录 00310294 到 /home/lkh/siga/dataset/ABC/step_case/31 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 744076956 bytes (710 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0031_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0031_step_v00.7z
+Type = 7z
+Physical Size = 744076956
+Headers Size = 217405
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 295
+Size:       167372744
+Compressed: 744076956
+解压 00310294 用时 1 秒
+--------------------------
+处理: name=00319309, index=31
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/31/00319309
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0031_step_v00.7z 中的子目录 00319309 到 /home/lkh/siga/dataset/ABC/step_case/31 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 744076956 bytes (710 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0031_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0031_step_v00.7z
+Type = 7z
+Physical Size = 744076956
+Headers Size = 217405
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2625
+Size:       1872784344
+Compressed: 744076956
+解压 00319309 用时 9 秒
+--------------------------
+处理: name=00432118, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00432118
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00432118 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 2119
+Size:       2132515897
+Compressed: 784854142
+解压 00432118 用时 10 秒
+--------------------------
+处理: name=00433338, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433338
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433338 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1178
+Size:       1422290076
+Compressed: 784854142
+解压 00433338 用时 8 秒
+--------------------------
+处理: name=00433973, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433973
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433973 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1813
+Size:       1732154916
+Compressed: 784854142
+解压 00433973 用时 6 秒
+--------------------------
+处理: name=00433975, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433975
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433975 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1815
+Size:       1732254043
+Compressed: 784854142
+解压 00433975 用时 7 秒
+--------------------------
+处理: name=00433981, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433981
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433981 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1821
+Size:       1733245027
+Compressed: 784854142
+解压 00433981 用时 7 秒
+--------------------------
+处理: name=00433984, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433984
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433984 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1824
+Size:       1733413920
+Compressed: 784854142
+解压 00433984 用时 6 秒
+--------------------------
+处理: name=00433985, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433985
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433985 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1825
+Size:       1733452521
+Compressed: 784854142
+解压 00433985 用时 7 秒
+--------------------------
+处理: name=00433987, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433987
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433987 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1827
+Size:       1733586008
+Compressed: 784854142
+解压 00433987 用时 7 秒
+--------------------------
+处理: name=00433988, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433988
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433988 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1828
+Size:       1733615128
+Compressed: 784854142
+解压 00433988 用时 6 秒
+--------------------------
+处理: name=00433989, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433989
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433989 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1829
+Size:       1733644051
+Compressed: 784854142
+解压 00433989 用时 7 秒
+--------------------------
+处理: name=00433990, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433990
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433990 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1830
+Size:       1733681085
+Compressed: 784854142
+解压 00433990 用时 7 秒
+--------------------------
+处理: name=00433997, index=43
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/43/00433997
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z 中的子目录 00433997 到 /home/lkh/siga/dataset/ABC/step_case/43 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 784854142 bytes (749 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0043_step_v00.7z
+Type = 7z
+Physical Size = 784854142
+Headers Size = 208131
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1837
+Size:       1734944787
+Compressed: 784854142
+解压 00433997 用时 7 秒
+--------------------------
+处理: name=00442041, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00442041
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00442041 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 2042
+Size:       1844821664
+Compressed: 1213577381
+解压 00442041 用时 8 秒
+--------------------------
+处理: name=00442043, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00442043
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00442043 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 2044
+Size:       1844926369
+Compressed: 1213577381
+解压 00442043 用时 6 秒
+--------------------------
+处理: name=00442045, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00442045
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00442045 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 2046
+Size:       1844945342
+Compressed: 1213577381
+解压 00442045 用时 7 秒
+--------------------------
+处理: name=00442218, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00442218
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00442218 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 2219
+Size:       1947095273
+Compressed: 1213577381
+解压 00442218 用时 7 秒
+--------------------------
+处理: name=00448843, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448843
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448843 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 132
+Size:       117263623
+Compressed: 1213577381
+解压 00448843 用时 1 秒
+--------------------------
+处理: name=00448845, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448845
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448845 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 134
+Size:       117310174
+Compressed: 1213577381
+解压 00448845 用时 0 秒
+--------------------------
+处理: name=00448847, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448847
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448847 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 136
+Size:       117424682
+Compressed: 1213577381
+解压 00448847 用时 0 秒
+--------------------------
+处理: name=00448850, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448850
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448850 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 139
+Size:       117822459
+Compressed: 1213577381
+解压 00448850 用时 1 秒
+--------------------------
+处理: name=00448852, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448852
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448852 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 141
+Size:       117947457
+Compressed: 1213577381
+解压 00448852 用时 0 秒
+--------------------------
+处理: name=00448853, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448853
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448853 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 142
+Size:       117975092
+Compressed: 1213577381
+解压 00448853 用时 1 秒
+--------------------------
+处理: name=00448856, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448856
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448856 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 145
+Size:       118453285
+Compressed: 1213577381
+解压 00448856 用时 0 秒
+--------------------------
+处理: name=00448857, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448857
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448857 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 146
+Size:       118469040
+Compressed: 1213577381
+解压 00448857 用时 1 秒
+--------------------------
+处理: name=00448858, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448858
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448858 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 147
+Size:       118483264
+Compressed: 1213577381
+解压 00448858 用时 0 秒
+--------------------------
+处理: name=00448859, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448859
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448859 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 148
+Size:       118497667
+Compressed: 1213577381
+解压 00448859 用时 1 秒
+--------------------------
+处理: name=00448860, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448860
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448860 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 149
+Size:       118525293
+Compressed: 1213577381
+解压 00448860 用时 0 秒
+--------------------------
+处理: name=00448862, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448862
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448862 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 151
+Size:       118575503
+Compressed: 1213577381
+解压 00448862 用时 0 秒
+--------------------------
+处理: name=00448863, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448863
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448863 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 152
+Size:       118588183
+Compressed: 1213577381
+解压 00448863 用时 1 秒
+--------------------------
+处理: name=00448867, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448867
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448867 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 156
+Size:       118945730
+Compressed: 1213577381
+解压 00448867 用时 0 秒
+--------------------------
+处理: name=00448868, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448868
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448868 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 157
+Size:       118957055
+Compressed: 1213577381
+解压 00448868 用时 1 秒
+--------------------------
+处理: name=00448880, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448880
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448880 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 169
+Size:       119329722
+Compressed: 1213577381
+解压 00448880 用时 0 秒
+--------------------------
+处理: name=00448882, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448882
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448882 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 171
+Size:       119372625
+Compressed: 1213577381
+解压 00448882 用时 1 秒
+--------------------------
+处理: name=00448884, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448884
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448884 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 173
+Size:       119448534
+Compressed: 1213577381
+解压 00448884 用时 0 秒
+--------------------------
+处理: name=00448891, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448891
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448891 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 180
+Size:       120155551
+Compressed: 1213577381
+解压 00448891 用时 1 秒
+--------------------------
+处理: name=00448894, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448894
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448894 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 183
+Size:       120254614
+Compressed: 1213577381
+解压 00448894 用时 0 秒
+--------------------------
+处理: name=00448899, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00448899
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00448899 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 188
+Size:       125191229
+Compressed: 1213577381
+解压 00448899 用时 1 秒
+--------------------------
+处理: name=00449755, index=44
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/44/00449755
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z 中的子目录 00449755 到 /home/lkh/siga/dataset/ABC/step_case/44 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1213577381 bytes (1158 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0044_step_v00.7z
+Type = 7z
+Physical Size = 1213577381
+Headers Size = 215472
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 1044
+Size:       1098908425
+Compressed: 1213577381
+解压 00449755 用时 5 秒
+--------------------------
+处理: name=00495409, index=49
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/49/00495409
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0049_step_v00.7z 中的子目录 00495409 到 /home/lkh/siga/dataset/ABC/step_case/49 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1012834319 bytes (966 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0049_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0049_step_v00.7z
+Type = 7z
+Physical Size = 1012834319
+Headers Size = 200295
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1421
+Size:       1535014055
+Compressed: 1012834319
+解压 00495409 用时 8 秒
+--------------------------
+处理: name=00496851, index=49
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/49/00496851
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0049_step_v00.7z 中的子目录 00496851 到 /home/lkh/siga/dataset/ABC/step_case/49 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1012834319 bytes (966 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0049_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0049_step_v00.7z
+Type = 7z
+Physical Size = 1012834319
+Headers Size = 200295
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 678
+Size:       302236237
+Compressed: 1012834319
+解压 00496851 用时 3 秒
+--------------------------
+处理: name=00511649, index=51
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/51/00511649
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0051_step_v00.7z 中的子目录 00511649 到 /home/lkh/siga/dataset/ABC/step_case/51 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 872785961 bytes (833 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0051_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0051_step_v00.7z
+Type = 7z
+Physical Size = 872785961
+Headers Size = 222567
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 1650
+Size:       1651232248
+Compressed: 872785961
+解压 00511649 用时 8 秒
+--------------------------
+处理: name=00520397, index=52
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/52/00520397
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0052_step_v00.7z 中的子目录 00520397 到 /home/lkh/siga/dataset/ABC/step_case/52 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 978130827 bytes (933 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0052_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0052_step_v00.7z
+Type = 7z
+Physical Size = 978130827
+Headers Size = 220950
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 398
+Size:       172591034
+Compressed: 978130827
+解压 00520397 用时 1 秒
+--------------------------
+处理: name=00520467, index=52
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/52/00520467
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0052_step_v00.7z 中的子目录 00520467 到 /home/lkh/siga/dataset/ABC/step_case/52 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 978130827 bytes (933 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0052_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0052_step_v00.7z
+Type = 7z
+Physical Size = 978130827
+Headers Size = 220950
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 468
+Size:       243248030
+Compressed: 978130827
+解压 00520467 用时 1 秒
+--------------------------
+处理: name=00557606, index=55
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/55/00557606
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0055_step_v00.7z 中的子目录 00557606 到 /home/lkh/siga/dataset/ABC/step_case/55 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1148162481 bytes (1095 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0055_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0055_step_v00.7z
+Type = 7z
+Physical Size = 1148162481
+Headers Size = 204440
+Method = LZMA2:24
+Solid = +
+Blocks = 6
+
+Everything is Ok
+
+Files: 1145
+Size:       1454499383
+Compressed: 1148162481
+解压 00557606 用时 9 秒
+--------------------------
+处理: name=00572438, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572438
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572438 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 476
+Size:       748437750
+Compressed: 1027018960
+解压 00572438 用时 6 秒
+--------------------------
+处理: name=00572454, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572454
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572454 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 492
+Size:       753996060
+Compressed: 1027018960
+解压 00572454 用时 5 秒
+--------------------------
+处理: name=00572455, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572455
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572455 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 493
+Size:       754038796
+Compressed: 1027018960
+解压 00572455 用时 4 秒
+--------------------------
+处理: name=00572456, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572456
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572456 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 494
+Size:       754081526
+Compressed: 1027018960
+解压 00572456 用时 5 秒
+--------------------------
+处理: name=00572457, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572457
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572457 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 495
+Size:       754124336
+Compressed: 1027018960
+解压 00572457 用时 5 秒
+--------------------------
+处理: name=00572458, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572458
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572458 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 496
+Size:       754167095
+Compressed: 1027018960
+解压 00572458 用时 5 秒
+--------------------------
+处理: name=00572459, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572459
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572459 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 497
+Size:       754213072
+Compressed: 1027018960
+解压 00572459 用时 4 秒
+--------------------------
+处理: name=00572460, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572460
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572460 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 498
+Size:       754305772
+Compressed: 1027018960
+解压 00572460 用时 5 秒
+--------------------------
+处理: name=00572462, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572462
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572462 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 500
+Size:       754441916
+Compressed: 1027018960
+解压 00572462 用时 5 秒
+--------------------------
+处理: name=00572466, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572466
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572466 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 504
+Size:       754555606
+Compressed: 1027018960
+解压 00572466 用时 5 秒
+--------------------------
+处理: name=00572468, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572468
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572468 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 506
+Size:       754642775
+Compressed: 1027018960
+解压 00572468 用时 4 秒
+--------------------------
+处理: name=00572469, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572469
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572469 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 507
+Size:       754681137
+Compressed: 1027018960
+解压 00572469 用时 5 秒
+--------------------------
+处理: name=00572471, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572471
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572471 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 509
+Size:       754778115
+Compressed: 1027018960
+解压 00572471 用时 5 秒
+--------------------------
+处理: name=00572533, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572533
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572533 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 571
+Size:       814215738
+Compressed: 1027018960
+解压 00572533 用时 5 秒
+--------------------------
+处理: name=00572991, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572991
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572991 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1029
+Size:       1035903845
+Compressed: 1027018960
+解压 00572991 用时 6 秒
+--------------------------
+处理: name=00572992, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572992
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572992 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1030
+Size:       1035940891
+Compressed: 1027018960
+解压 00572992 用时 6 秒
+--------------------------
+处理: name=00572993, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00572993
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00572993 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1031
+Size:       1035977938
+Compressed: 1027018960
+解压 00572993 用时 6 秒
+--------------------------
+处理: name=00573001, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573001
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573001 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1039
+Size:       1036213204
+Compressed: 1027018960
+解压 00573001 用时 6 秒
+--------------------------
+处理: name=00573002, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573002
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573002 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1040
+Size:       1036242400
+Compressed: 1027018960
+解压 00573002 用时 6 秒
+--------------------------
+处理: name=00573004, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573004
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573004 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1042
+Size:       1036303355
+Compressed: 1027018960
+解压 00573004 用时 6 秒
+--------------------------
+处理: name=00573006, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573006
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573006 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1044
+Size:       1036384590
+Compressed: 1027018960
+解压 00573006 用时 6 秒
+--------------------------
+处理: name=00573007, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573007
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573007 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1045
+Size:       1036421736
+Compressed: 1027018960
+解压 00573007 用时 6 秒
+--------------------------
+处理: name=00573008, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573008
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573008 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1046
+Size:       1036437561
+Compressed: 1027018960
+解压 00573008 用时 6 秒
+--------------------------
+处理: name=00573012, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573012
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573012 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1050
+Size:       1036546533
+Compressed: 1027018960
+解压 00573012 用时 6 秒
+--------------------------
+处理: name=00573014, index=57
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/57/00573014
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z 中的子目录 00573014 到 /home/lkh/siga/dataset/ABC/step_case/57 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1027018960 bytes (980 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0057_step_v00.7z
+Type = 7z
+Physical Size = 1027018960
+Headers Size = 215673
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1052
+Size:       1036612839
+Compressed: 1027018960
+解压 00573014 用时 6 秒
+--------------------------
+处理: name=00622380, index=62
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/62/00622380
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z 中的子目录 00622380 到 /home/lkh/siga/dataset/ABC/step_case/62 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1024488764 bytes (978 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z
+Type = 7z
+Physical Size = 1024488764
+Headers Size = 213271
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 466
+Size:       573613192
+Compressed: 1024488764
+解压 00622380 用时 3 秒
+--------------------------
+处理: name=00629827, index=62
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/62/00629827
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z 中的子目录 00629827 到 /home/lkh/siga/dataset/ABC/step_case/62 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1024488764 bytes (978 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z
+Type = 7z
+Physical Size = 1024488764
+Headers Size = 213271
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2264
+Size:       1563444061
+Compressed: 1024488764
+解压 00629827 用时 8 秒
+--------------------------
+处理: name=00629834, index=62
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/62/00629834
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z 中的子目录 00629834 到 /home/lkh/siga/dataset/ABC/step_case/62 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1024488764 bytes (978 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0062_step_v00.7z
+Type = 7z
+Physical Size = 1024488764
+Headers Size = 213271
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 2271
+Size:       1564213973
+Compressed: 1024488764
+解压 00629834 用时 7 秒
+--------------------------
+处理: name=00630433, index=63
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/63/00630433
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0063_step_v00.7z 中的子目录 00630433 到 /home/lkh/siga/dataset/ABC/step_case/63 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1091187184 bytes (1041 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0063_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0063_step_v00.7z
+Type = 7z
+Physical Size = 1091187184
+Headers Size = 213384
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 434
+Size:       828198906
+Compressed: 1091187184
+解压 00630433 用时 7 秒
+--------------------------
+处理: name=00684490, index=68
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/68/00684490
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z 中的子目录 00684490 到 /home/lkh/siga/dataset/ABC/step_case/68 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1089309397 bytes (1039 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+Type = 7z
+Physical Size = 1089309397
+Headers Size = 214537
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 344
+Size:       784659365
+Compressed: 1089309397
+解压 00684490 用时 4 秒
+--------------------------
+处理: name=00685409, index=68
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/68/00685409
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z 中的子目录 00685409 到 /home/lkh/siga/dataset/ABC/step_case/68 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1089309397 bytes (1039 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+Type = 7z
+Physical Size = 1089309397
+Headers Size = 214537
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1263
+Size:       1693912056
+Compressed: 1089309397
+解压 00685409 用时 8 秒
+--------------------------
+处理: name=00685440, index=68
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/68/00685440
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z 中的子目录 00685440 到 /home/lkh/siga/dataset/ABC/step_case/68 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1089309397 bytes (1039 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+Type = 7z
+Physical Size = 1089309397
+Headers Size = 214537
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1294
+Size:       1701439048
+Compressed: 1089309397
+解压 00685440 用时 7 秒
+--------------------------
+处理: name=00685560, index=68
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/68/00685560
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z 中的子目录 00685560 到 /home/lkh/siga/dataset/ABC/step_case/68 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1089309397 bytes (1039 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+Type = 7z
+Physical Size = 1089309397
+Headers Size = 214537
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1414
+Size:       1713868377
+Compressed: 1089309397
+解压 00685560 用时 7 秒
+--------------------------
+处理: name=00685578, index=68
+检查是否已解压：/home/lkh/siga/dataset/ABC/step_case/68/00685578
+解压 /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z 中的子目录 00685578 到 /home/lkh/siga/dataset/ABC/step_case/68 ...
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=zh_CN.UTF-8,Utf16=on,HugeFiles=on,64 bits,24 CPUs 13th Gen Intel(R) Core(TM) i7-13700KF (B0671),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1089309397 bytes (1039 MiB)
+
+Extracting archive: /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+--
+Path = /home/lkh/siga/dataset/ABC/all_7z/abc_0068_step_v00.7z
+Type = 7z
+Physical Size = 1089309397
+Headers Size = 214537
+Method = LZMA2:24
+Solid = +
+Blocks = 5
+
+Everything is Ok
+
+Files: 1432
+Size:       1715180485
+Compressed: 1089309397
+解压 00685578 用时 7 秒
+--------------------------
