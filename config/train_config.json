@@ -1,0 +1,25 @@
+{
+  "sd_path": "/home/lkh/siga/ckpt/sd15",
+  "controlnet_path": "/home/lkh/siga/ckpt/controlnet_scribble",
+  "img_encoder_path": "/home/lkh/siga/ckpt/clip-vit-base-patch32",
+  "projector_path": "/home/lkh/siga/ckpt/projector_weights.pth",
+  "resume_ckpt_path": "",
+
+  "file_path": "/home/lkh/siga/dataset/my_dataset/normals_train_dataset/ABC/test01",
+  
+  "parent_log_dir": "/home/lkh/siga/output/log",
+  "compare_log": "/home/lkh/siga/output/log/compare.log",
+  
+  "mode": "train",
+  "device": "cuda:0",
+  "res": 256,
+  "num_epochs": 35,
+  "batch_size": 10,
+  "lam": 0.0,
+  "lr": 3e-5,
+  "torch_dtype": "float32",
+  "weight_decay": 1e-2,
+
+  "debug": 0,
+  "tip": "lr_to_3e-5_and_scribble"
+}

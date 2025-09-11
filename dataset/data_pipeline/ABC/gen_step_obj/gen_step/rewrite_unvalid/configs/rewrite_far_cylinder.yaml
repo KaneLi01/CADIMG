@@ -1,0 +1,5 @@
+task_name: "rewrite_far_2"
+task: "rewrite_far_cylinder"
+txt_name_list: '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_far2.txt'
+txt_output_paths: '/home/lkh/siga/dataset/ABC/childnum1_base_add_shape/1/view_supp2.txt'
+

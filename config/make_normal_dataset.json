@@ -1,0 +1,11 @@
+{
+  "ply_dir": "/home/lkh/siga/dataset/my_dataset/cad_ply/addbody/base",
+  "hdf5_dir": "/home/lkh/siga/dataset/my_dataset/normals_train_dataset/normal_h5_addbody_6views",
+  "img_output_dir": "/home/lkh/siga/dataset/my_dataset/normals_train_dataset/normal_img_addbody_6views/",
+  
+  "ply_dir_parent": "/home/lkh/siga/dataset/my_dataset/cad_ply/addbody",
+  "view_path": "/home/lkh/siga/CADIMG/dataset/create_dataset/render_normal/views_correct.pkl",
+  "center_path": "/home/lkh/siga/CADIMG/dataset/create_dataset/render_normal/centers_correct.pkl",
+  "out_dir": "/home/lkh/siga/dataset/my_dataset/normals_train_dataset/normal_h5_addbody_6views",
+  "correct_index": "/home/lkh/siga/CADIMG/dataset/correct_dataset/vaild_train_dataset_names.json"
+}

@@ -1,0 +1,5 @@
+task: "normal"
+task_name: "normal_1"
+input_root_dir: '/home/lkh/siga/dataset/ABC/new/c1/base_add/1/obj/add'
+output_dir: '/home/lkh/siga/CADIMG/dataset/data_pipeline/ABC/render/src/add'
+view_path: '/home/lkh/siga/CADIMG/dataset/data_pipeline/ABC/render/src/view.txt'

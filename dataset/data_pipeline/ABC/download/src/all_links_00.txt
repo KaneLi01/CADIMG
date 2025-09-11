@@ -1,0 +1,8 @@
+https://archive.nyu.edu/rest/bitstreams/121765/retrieve abc_0000_ofs_v00.7z
+https://archive.nyu.edu/rest/bitstreams/88595/retrieve abc_0000_meta_v00.7z
+https://archive.nyu.edu/rest/bitstreams/88597/retrieve abc_0000_para_v00.7z
+https://archive.nyu.edu/rest/bitstreams/88598/retrieve abc_0000_step_v00.7z
+https://archive.nyu.edu/rest/bitstreams/88599/retrieve abc_0000_stl2_v00.7z
+https://archive.nyu.edu/rest/bitstreams/89085/retrieve abc_0000_obj_v00.7z
+https://archive.nyu.edu/rest/bitstreams/89087/retrieve abc_0000_feat_v00.7z
+https://archive.nyu.edu/rest/bitstreams/89086/retrieve abc_0000_stat_v00.7z

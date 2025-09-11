@@ -1,0 +1,7 @@
+task_name: "distinguish_unvalid_all_1"
+task: "record_unvalid"
+txt_name_list: '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_far.txt'
+txt_output_paths:
+  output_txt_inter:  '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_inter2.txt'
+  output_txt_far: '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_far2.txt'
+  output_txt_error: '/home/lkh/siga/CADIMG/dataset/process/ABC/rewrite_unvalid/src/unvalid_base_add_error2.txt'

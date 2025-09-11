@@ -1,0 +1,5 @@
+task: "sketch"
+task_name: "sketch_1"
+input_root_dir: '/home/lkh/siga/dataset/ABC/new/c1/base_add/1/step/add'
+output_dir: '/home/lkh/siga/dataset/ABC/new/c1/imgs/add_sketch/sketch'
+view_path: '/home/lkh/siga/CADIMG/dataset/data_pipeline/ABC/render/src/view.txt'

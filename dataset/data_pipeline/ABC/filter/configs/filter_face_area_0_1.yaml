@@ -1,0 +1,6 @@
+task_name: "filter_face_area_0_1"
+input: "/home/lkh/siga/dataset/ABC/shape_feats/processed/old/v2/child_num/child_num_1_final1.jsonl"
+output_dir: "/home/lkh/siga/dataset/ABC/shape_feats/processed/new/v3/filter_face_area/1"
+classify_name: 
+  - filtered
+  - removed

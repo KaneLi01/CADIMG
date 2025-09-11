@@ -1,0 +1,21 @@
+{
+  "sd_path": "/home/lkh/siga/ckpt/sd15",
+  "controlnet_path": "/home/lkh/siga/ckpt/controlnet_canny",
+  "img_encoder_path": "/home/lkh/siga/ckpt/clip-vit-base-patch32",
+  "projector_path": "/home/lkh/siga/ckpt/projector_weights.pth",
+
+  "parent_cn_path": "/home/lkh/siga/output/log",
+  "index": "0508_1848",
+
+  "test_img_path": "",
+  "test_sketch_path": "",
+  "img_index": [0,4],
+  "res": 256,
+
+  "output_dir": "/home/lkh/siga/CADIMG/infer",
+
+  "torch_dtype": "torch32", 
+
+  "device": "cpu",
+  "tip": " "
+}
